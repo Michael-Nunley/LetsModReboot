@@ -2,143 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b729021-7f34-422a-ac13-9416ae17c38c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/2016-12-07-6.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/2016-12-08-1.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/2016-12-08-2.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/2016-12-09-1.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/2016-12-09-2.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/2016-12-09-3.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/2016-12-09-4.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/2016-12-09-5.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/2016-12-09-6.log.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/NEI/local/pyra/NEI.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/NEI/players/Player581.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/NEI/players/Player785.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/data/Village.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/gregtech/certificates.support.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/gregtech/endergarbage.fluids.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/gregtech/endergarbage.items.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/05a2b883-672c-35b9-82ec-eccc4e0cabc2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/playerdata/122d3a74-28b3-3553-91d4-9092b640ce8e.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-2.-1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-2.0.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-3.-1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-3.0.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/DIM-1/data/villages.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/DIM-1/forcedchunks.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/DIM1/data/villages.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/DIM1/forcedchunks.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/NEI/players/Player2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/NEI/players/Player229.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/NEI/players/Player293.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/NEI/players/Player311.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/NEI/players/Player426.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/NEI/world.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/data/sgcraft" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/data/villages.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/forcedchunks.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/gregtech/certificates.support.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/gregtech/endergarbage.fluids.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/gregtech/endergarbage.items.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/level.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/level.dat_mcr" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/level.dat_old" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/playerdata/71f66ac1-c861-3de2-8cda-9d0f80277f27.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/playerdata/738c48db-b050-3c6f-9053-5a4abfe0d0a6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/playerdata/ad3b9163-3242-34ef-8b76-b0fcecc34cf8.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/playerdata/aed5efd4-551b-3965-bc28-ae21aa072a66.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/playerdata/d4625839-68ff-34de-8208-19f0e474753e.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/region/r.-1.-1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/region/r.-1.0.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/region/r.-1.1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/region/r.-1.2.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/region/r.0.-1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/region/r.0.0.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/region/r.0.1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/region/r.0.2.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/region/r.1.1.mca" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/session.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/eula.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/2016-12-09-7.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/logs/fml-server-latest.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/NEI/local/pyra/NEI.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/stats/05a2b883-672c-35b9-82ec-eccc4e0cabc2.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/New World/stats/122d3a74-28b3-3553-91d4-9092b640ce8e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/NEI/banneditems.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/NEI/server.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/stats/71f66ac1-c861-3de2-8cda-9d0f80277f27.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/stats/738c48db-b050-3c6f-9053-5a4abfe0d0a6.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/stats/ad3b9163-3242-34ef-8b76-b0fcecc34cf8.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/stats/aed5efd4-551b-3965-bc28-ae21aa072a66.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/saves/pyra/stats/d4625839-68ff-34de-8208-19f0e474753e.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/run/server.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/block/BlockPyramid.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run/saves/New World/NEI/players/Player383.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run/saves/New World/data/Stronghold.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run/saves/New World/playerdata/8d101aa3-9950-3c98-bc33-0e30fb25ef8b.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.1.0.mca" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.2.-1.mca" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.2.0.mca" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/run/saves/New World/stats/8d101aa3-9950-3c98-bc33-0e30fb25ef8b.json" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/run/logs/2016-12-07-2.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-12-07-1.log.gz" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/run/logs/2016-12-07-3.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-12-07-2.log.gz" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/run/logs/2016-12-07-4.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-12-07-3.log.gz" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/run/logs/2016-12-07-5.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-12-07-4.log.gz" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/run/logs/2016-12-07-6.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-12-07-5.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/pahimar/letsmodreboot/init/ModBlocks.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/pahimar/letsmodreboot/init/ModBlocks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/pahimar/letsmodreboot/reference/Names$Blocks.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/pahimar/letsmodreboot/reference/Names$Blocks.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/com/pahimar/letsmodreboot/reference/Names$Keys.class" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/com/pahimar/letsmodreboot/reference/Names$Keys.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/2016-12-07-7.log.gz" afterPath="$PROJECT_DIR$/run/logs/2016-12-07-7.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/villages.dat" afterPath="$PROJECT_DIR$/run/saves/New World/DIM-1/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/DIM1/data/villages.dat" afterPath="$PROJECT_DIR$/run/saves/New World/DIM1/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/data/Mineshaft.dat" afterPath="$PROJECT_DIR$/run/saves/New World/data/Mineshaft.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" afterPath="$PROJECT_DIR$/run/saves/New World/data/villages.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/level.dat" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/level.dat_mcr" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_mcr" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/level.dat_old" afterPath="$PROJECT_DIR$/run/saves/New World/level.dat_old" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-1.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.-1.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.-1.0.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.0.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.-1.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.0.0.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/region/r.1.-1.mca" afterPath="$PROJECT_DIR$/run/saves/New World/region/r.1.-1.mca" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/New World/session.lock" afterPath="$PROJECT_DIR$/run/saves/New World/session.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LetsModReboot.iws" afterPath="$PROJECT_DIR$/LetsModReboot.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/LetsModReboot/assets/letsmodreboot/lang/en_US.lang" afterPath="$PROJECT_DIR$/out/production/LetsModReboot/assets/letsmodreboot/lang/en_US.lang" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/GregTech.lang" afterPath="$PROJECT_DIR$/run/GregTech.lang" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/asm/ccl_modular/net#minecraft#block#Block.txt" afterPath="$PROJECT_DIR$/run/asm/ccl_modular/net#minecraft#block#Block.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/asm/ccl_modular/net#minecraft#block#BlockFire.txt" afterPath="$PROJECT_DIR$/run/asm/ccl_modular/net#minecraft#block#BlockFire.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/GregTech/MaterialList.log" afterPath="$PROJECT_DIR$/run/config/GregTech/MaterialList.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/GregTech/OreProcessing.cfg" afterPath="$PROJECT_DIR$/run/config/GregTech/OreProcessing.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/GregTech/WorldGeneration.cfg" afterPath="$PROJECT_DIR$/run/config/GregTech/WorldGeneration.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/IC2.ini" afterPath="$PROJECT_DIR$/run/config/IC2.ini" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/NEI/client.cfg" afterPath="$PROJECT_DIR$/run/config/NEI/client.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Cluster_Mill.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Cluster_Mill.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Compressor.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Compressor.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Cutter.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Cutter.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Extruder.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Extruder.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Generifier.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Generifier.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Lathe.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Lathe.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Roll_Bender.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Roll_Bender.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Rolling_Mill.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Rolling_Mill.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Shredder.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Shredder.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Welding_Machine.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Welding_Machine.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/Recipes/Wiremill.cfg" afterPath="$PROJECT_DIR$/run/config/Recipes/Wiremill.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/config/splash.properties" afterPath="$PROJECT_DIR$/run/config/splash.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/GregTech.log" afterPath="$PROJECT_DIR$/run/logs/GregTech.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/OreDict.log" afterPath="$PROJECT_DIR$/run/logs/OreDict.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-1.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-2.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-3.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/run/logs/fml-client-latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/run/logs/fml-junk-earlystartup.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/logs/latest.log" afterPath="$PROJECT_DIR$/run/logs/latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/options.txt" afterPath="$PROJECT_DIR$/run/options.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/saves/NEI/local/New World/NEI.cfg" afterPath="$PROJECT_DIR$/run/saves/NEI/local/New World/NEI.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run/usernamecache.json" afterPath="$PROJECT_DIR$/run/usernamecache.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/init/ModBlocks.java" afterPath="$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/init/ModBlocks.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/reference/Names.java" afterPath="$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/reference/Names.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/assets/letsmodreboot/lang/en_US.lang" afterPath="$PROJECT_DIR$/src/main/resources/assets/letsmodreboot/lang/en_US.lang" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -195,6 +59,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/assets/letsmodreboot/lang/en_US.lang">
           <provider selected="true" editor-type-id="text-editor">
@@ -205,11 +79,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlockPyramid.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BlockPyramid.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/block/BlockPyramid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            <state relative-caret-position="75">
+              <caret line="6" column="59" lean-forward="false" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -242,16 +116,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="100">
               <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemLMRB.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/item/ItemLMRB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -314,11 +178,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/reference/Names.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/letsmodreboot/lang/en_US.lang" />
         <option value="$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/init/ModBlocks.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/block/BlockPyramid.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
       </list>
     </option>
   </component>
@@ -330,10 +194,10 @@
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="4300" />
-    <option name="y" value="758" />
-    <option name="width" value="1202" />
-    <option name="height" value="834" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="3856" />
+    <option name="height" value="2176" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -369,20 +233,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="LetsModReboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LetsModReboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="LetsModReboot" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="run" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -692,8 +542,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4300" y="758" width="1202" height="834" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="3856" height="2176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -704,13 +554,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32989323" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45363766" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15565345" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296322" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33032617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2977233" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08956797" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24982207" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -893,14 +743,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1100">
-          <caret line="44" column="24" lean-forward="false" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/LetsModReboot.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="800">
@@ -997,11 +839,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/pahimar/letsmodreboot/block/BlockPyramid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="23" lean-forward="false" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        <state relative-caret-position="75">
+          <caret line="6" column="59" lean-forward="false" selection-start-line="6" selection-start-column="59" selection-end-line="6" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>

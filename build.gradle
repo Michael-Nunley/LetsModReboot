@@ -55,7 +55,7 @@ buildscript {
         /******forge******/
 
         /******GT******/
-        compile fileTree(dir: 'lib', include: '*.jar')
+        //compile fileTree(dir: 'lib', include: '*.jar')
         compile "li.cil.oc:OpenComputers:MC1.7.10-1.5.21.41:dev"
         compile "mcp.mobius.jabba:Jabba:1.2.2_1.7.10:dev"
         compile 'net.industrial-craft:industrialcraft-2:2.2.624-experimental:api'
