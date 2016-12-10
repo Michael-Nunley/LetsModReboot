@@ -17,17 +17,151 @@ GT_Mod: Adding Scrap with a Weight of 200.0F to the Scrapbox Drops.
 GT_Mod: Register OreDict Entries of Non-GT-Items.
 GT_Mod: Register Fluids.
 GT_Mod: Register Tools.
-GT_Mod: Register Items.
 GT_Download_Thread: Success downloading Silver Supporter List!
 GT_Download_Thread: Downloading Gold Supporter List.
-GT_Mod: Register PrefixBlocks.
-GT_Mod: Register regular Blocks.
+GT_Mod: Register Items.
 GT_Download_Thread: Success downloading Gold Supporter List!
 GT_Download_Thread: Downloading News.
+GT_Mod: Register PrefixBlocks.
+GT_Mod: Register regular Blocks.
 GT_Mod: Register Ores.
 GT_Mod: Register Other Stuff.
 GT_Mod: Register own MultiTileEntity Stuff.
 GT_Mod: Register Redstone Circuit behaviours.
 GT_Mod: PreInit-Phase finished!
 GT_Mod: =======================
+GT_API: ===================
+GT_API: Init-Phase started!
+GT_API: Doing a lot of the OreDictionary work (populating HashMaps for enabling faster access to Data and parsing Stuff). This will take a while. Like a LOT of time.
+GT_API: If it seriously takes more than a hour then you definetly ran out of Memory or permgenspace, look at the other Logs to confirm it.
+GT_API: Finished a lot of the OreDictionary work.
+GT_API: Init-Phase finished!
+GT_API: ====================
+GT_API_POST: ===================
+GT_API_POST: Init-Phase started!
+GT_API_POST: Init-Phase finished!
+GT_API_POST: ====================
+GT_Mod: ===================
+GT_Mod: Init-Phase started!
+GT_Mod: Register MultiTileEntities.
+GT_Mod: Register Books.
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Punch_Cards'  -  Name: 'Punch Card Manual V0.0'  -  Author: 'Gregorius Techneticies'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Microwave'  -  Name: 'Microwave Oven Manual'  -  Author: 'Kitchen Industries'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Printer'  -  Name: 'Scanner & Printer Manual'  -  Author: 'GregTech Electrics'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Steam'  -  Name: 'Steam Manual'  -  Author: 'GregTech Thermodynamics'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Random'  -  Name: 'Manual with Random Information'  -  Author: 'Gregorius Techneticies'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Hunting_Creeper'  -  Name: 'Hunting Guide for Creepers'  -  Author: 'Alex Grylls, Survival Specialist'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Hunting_Skeleton'  -  Name: 'Hunting Guide for Skeletons'  -  Author: 'Alex Grylls, Survival Specialist'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Hunting_Zombie'  -  Name: 'Hunting Guide for Zombies'  -  Author: 'Alex Grylls, Survival Specialist'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Hunting_Spider'  -  Name: 'Hunting Guide for Spiders'  -  Author: 'Alex Grylls, Survival Specialist'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Hunting_End'  -  Name: 'Hunting Guide for the End'  -  Author: 'Alex Grylls, Survival Specialist'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Hunting_Blaze'  -  Name: 'Hunting Guide for Blazes and Ghasts'  -  Author: 'Alex Grylls, Survival Specialist'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Hunting_Witch'  -  Name: 'Hunting Guide for Witches'  -  Author: 'Alex Grylls, Survival Specialist'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Smeltery'  -  Name: 'Smelting Crucible Manual'  -  Author: 'GMWI (Gregorius Metal Working Industries)'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Alloys'  -  Name: 'Book of Alloys, Smeltery Edition (99)'  -  Author: 'GMWI (Gregorius Metal Working Industries)'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Elements'  -  Name: 'Book of Periods (89)'  -  Author: 'GCC (Gregorius Chemical Consortium)'
+NOTE: Added Book to Book List  -  Mapping: 'Manual_Extenders'  -  Name: 'Extenders & Filters'  -  Author: 'GAD (Gregorius Automation Distributions)'
+WARNING: String for Page of written Book too long! -> Tool Properties
+===================
+Durability:
+64
+Quality:
+2
+Speed:
+10.0
+Handle:
+Steel
+Tool Enchantment:
+enchantment.damage.werewolf II
+Tool Enchantment:
+enchantment.damage.endermen II
+Armor Enchantment:
+enchantment.damage.werewolf II
+===================
+
+WARNING: String for Page of written Book too long! -> Tool Properties
+===================
+Durability:
+128
+Quality:
+2
+Speed:
+13.0
+Handle:
+Wood
+Tool Enchantment:
+enchantment.damage.werewolf IV
+Tool Enchantment:
+enchantment.damage.endermen IV
+Armor Enchantment:
+enchantment.damage.werewolf IV
+===================
+
+WARNING: String for Page of written Book too long! -> Tool Properties
+===================
+Durability:
+512
+Quality:
+9
+Speed:
+100.0
+Handle:
+Vibranium Steel
+Tool Enchantment:
+enchantment.damage.werewolf X
+Tool Enchantment:
+enchantment.damage.endermen X
+Armor Enchantment:
+Protection VI
+Armor Enchantment:
+enchantment.damage.werewolf X
+===================
+
+GT_Mod: Register Ore processing.
+GT_Mod: Scanning for certain kinds of compatible Machineblocks.
+GT_Mod: Adding Food Recipes to the Automatic Canning Machine. (also during the following Item Iteration)
+GT_Mod: Scanning ItemList.
+GT_Mod: Init-Phase finished!
+GT_Mod: ====================
+GT_API: =======================
+GT_API: PostInit-Phase started!
+GT_API: Doing a lot of more OreDictionary work (Registering Recipes). This will take a while. Like a LOT of time.
+GT_API: If it seriously takes more than a hour then you definetly ran out of Memory or permgenspace, look at the other Logs to confirm it.
+GT_API: Finished another batch of the OreDictionary work.
+GT_API: Dumping Material List for the Config Folder
+GT_API: PostInit-Phase finished!
+GT_API: ========================
+GT_API_POST: =======================
+GT_API_POST: PostInit-Phase started!
+GT_API_POST: PostInit-Phase finished!
+GT_API_POST: ========================
+GT_Mod: =======================
+GT_Mod: PostInit-Phase started!
+GT_Mod: Increasing general amount of Loot in Dungeon Chests and alike
+GT_Mod: Nerfing Vanilla Tool Durability
+GT_Mod: Adding Tool Usage Crafting Recipes for OreDict Items.
+GT_Mod: Initializing various Fuels.
+GT_Mod: Adding worldgenerated Chest Content.
+GT_Mod: Adding Stuff to the Recycler Blacklist.
+GT_Mod: (re-)adding Scrapbox Drops.
+GT_Mod: Register Crops to IC2.
+GT_Mod: Doing Vanilla Recipes.
+GT_Mod: Doing GT Recipes.
+GT_Mod: Doing IC2-Exp Recipes.
+GT_Mod: Doing Books.
+GT_Mod: Replacing Vanilla alike Recipes.
+GT_Mod: Copying other Mods Recipes over to GT Machines.
+GT_Mod: Doing Recipe Map Handlers.
+GT_Mod: Adding Fake Recipes for NEI
+GT_Mod: PostInit-Phase finished!
+GT_Mod: Adding buffered Recipes.
+GT_Mod: ========================
 GT_API: Re-Unificating Recipes.
+GT_API: Re-Unificating Recipes.
+GT_API: Unificating outputs of all known Recipe Types.
+GT_API: IC2 Machines
+GT_API: Dungeon Loot
+GT_API: Smelting
+GT_API: Crafting Recipes
+GT_API: Cleaning up all OreDict Crafting Recipes, which have an empty List in theGT_API: Re-Unificating Recipes.
+ny Condition.
