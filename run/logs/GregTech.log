@@ -1,0 +1,33 @@
+GT_API: ======================
+GT_API: PreInit-Phase started!
+GT_API: PreInit-Phase finished!
+GT_API: =======================
+GT_API_POST: ======================
+GT_API_POST: PreInit-Phase started!
+GT_API_POST: PreInit-Phase finished!
+GT_API_POST: =======================
+GT_Mod: ======================
+GT_Mod: PreInit-Phase started!
+GT_Download_Thread: Downloading Silver Supporter List.
+GT_Mod: Setting Configs
+GT_Mod: Sorting GregTech to the end of the Mod List for further processing.
+GT_Mod: Saving Main Config
+GT_Mod: Removing all original Scrapbox Drops.
+GT_Mod: Adding Scrap with a Weight of 200.0F to the Scrapbox Drops.
+GT_Mod: Register OreDict Entries of Non-GT-Items.
+GT_Mod: Register Fluids.
+GT_Mod: Register Tools.
+GT_Mod: Register Items.
+GT_Download_Thread: Success downloading Silver Supporter List!
+GT_Download_Thread: Downloading Gold Supporter List.
+GT_Mod: Register PrefixBlocks.
+GT_Mod: Register regular Blocks.
+GT_Download_Thread: Success downloading Gold Supporter List!
+GT_Download_Thread: Downloading News.
+GT_Mod: Register Ores.
+GT_Mod: Register Other Stuff.
+GT_Mod: Register own MultiTileEntity Stuff.
+GT_Mod: Register Redstone Circuit behaviours.
+GT_Mod: PreInit-Phase finished!
+GT_Mod: =======================
+GT_API: Re-Unificating Recipes.
